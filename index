@@ -1,0 +1,5 @@
+# 添加新的远程仓库
+git remote add origin git@github.com:stevensu1/test-kafka.git
+
+# 验证新的远程仓库设置
+git remote -v
